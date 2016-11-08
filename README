@@ -1,0 +1,13 @@
+Input demo for https://github.com/driftyco/ionic/issues/5432
+
+Built with
+```
+Cordova CLI: 6.1.1
+Gulp version:  CLI version 3.9.1
+Gulp local:   Local version 3.9.1
+Ionic Framework Version: 2.0.0-rc.2
+Ionic CLI Version: 2.1.0
+Ionic App Lib Version: 2.1.0-beta.1
+OS: Distributor ID: Ubuntu Description: Ubuntu 16.04 LTS 
+Node Version: v5.12.0
+```
